@@ -1,0 +1,20 @@
+---
+title: "Music"
+---
+
+<p class = "jacket">
+	These albums constitute a representative sample of what I am usually listening to. Click to listen on YouTube.
+
+<div id = "jacket">
+<a href = "https://www.youtube.com/watch?v=3BXyEUOuNds&list=PLBzBwYhHpqLI2g1rpfVfnVFjScpZdDzLR"><img src = "img/Tool_-_Lateralus.jpg" class = "imgMusic"></a>
+<a href = "https://www.youtube.com/watch?v=AFzAd4PNCaY"><img src = "img/russian-circles-station.jpg" class = "imgMusic"></a>
+<a href = "https://www.youtube.com/watch?v=BfYMj9B0oM4&list=PLdkbG6kCdZ8ME_i23eJmWt8Ca5mI_YX-_"><img src = "img/Haken_-_Vector_(2018).jpg" class = "imgMusic"></a>
+
+
+<a href = "https://www.youtube.com/watch?v=Hkma26LHvZA"><img src = "img/Meshuggah-Nothing.jpg" class = "imgMusic"></a>
+<a href = "https://www.youtube.com/watch?v=UBakgOHKI-g"><img src = "img/Igorrr_savage_sinusoid.jpg" class = "imgMusic"></a>
+<a href = "https://www.youtube.com/watch?v=CDS9gmdHtB8"><img src = "img/Brute_Force_album_cover_(2016).jpg" class = "imgMusic"></a>
+
+</div>
+
+</p>

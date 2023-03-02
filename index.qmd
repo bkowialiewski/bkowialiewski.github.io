@@ -1,0 +1,7 @@
+---
+title: "Purpose"
+---
+
+This website is dedicated to presenting my programming skills.
+
+I am currently a postdoctoral researcher at the University of Zurich. My work focuses on human memory, which I study through a behavioral and modeling approach, combined with fMRI. If this topic interests you, you can check my <a href = "publications.qmd">publication list</a>.

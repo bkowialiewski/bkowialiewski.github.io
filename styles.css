@@ -1,0 +1,25 @@
+/* css styles */
+body {
+	user-select: none;
+}
+
+.jacket {
+	position: absolute;
+	text-align: center;
+}
+
+#jacket {
+	position: relative;
+	display:inline-block;
+	text-align: center;
+}
+
+.imgMusic {
+	width: 25vh;
+	height : 25vh;
+	border: 1px solid black;
+}
+
+.imgMusic:hover {
+	filter: opacity(80%);
+}

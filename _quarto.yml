@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Benjamin Kowialiewski"
+  search: false
+  navbar:
+    background: "dark"
+    left:
+      - href: index.qmd
+        text: Home
+      - publications.qmd
+      - music.qmd
+      - CV.qmd
+
+  page-footer:
+    border: false
+    background: light
+    left:
+      - text: "<a href = 'mailto:benjamin.kowialiewski@uzh.ch'>benjamin.kowialiewski@uzh.ch</a>"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

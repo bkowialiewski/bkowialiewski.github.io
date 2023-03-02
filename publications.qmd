@@ -1,0 +1,25 @@
+---
+title: "Publications"
+---
+
+<p>
+Here is my list of scientific publications. If you struggle to access some of them, please do not hesitate to contact me.<br>
+
+<ul class = "publi">
+
+<li>Kowialiewski, B., Krasnoff, J., Mizrak, E., & Oberauer, K. (2023). Verbal working memory encodes phonological and semantic information differently. <i>Cognition</i>, 233, 105364. <a href = "https://doi.org/10.1016/j.cognition.2022.105364">https://doi.org/10.1016/j.cognition.2022.105364</a></li>
+<li>Kowialiewski, B., Krasnoff, J., Mizrak, E., & Oberauer, K. (2022). The Semantic Relatedness Effect in Serial Recall : Deconfounding Encoding and Recall Order. <i>Journal of Memory and Language</i>, 127. <a href = "https://doi.org/10.1016/j.jml.2022.104377">https://doi.org/10.1016/j.jml.2022.104377</a></li>
+<li>Kowialiewski, B., Lemaire, B. & Portrat, S. (2022). Between-item Similarity Frees Up Working Memory Resources Through Compression: A Domain-General Property. <i>Journal of Experimental Psychology: General</i>. <a href = "https://doi.org/10.1037/xge0001235">https://doi.org/10.1037/xge0001235</a></li>
+<li>Kowialiewski, B., Gorin, S., & Majerus, S. (2021). Semantic knowledge constrains the processing of serial order information in working memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>. <a href = "https://doi.org/10.1037/xlm0001031">https://doi.org/10.1037/xlm0001031</a></li>
+<li>Kowialiewski, B., Lemaire, B., Majerus, S., & Portrat, S. (2021). Can activated long-term memory maintain serial order information? <i>Psychonomic Bulletin & Review</i>, 28, 1301‑1312. <a href = "https://doi.org/10.3758/s13423-021-01902-3">https://doi.org/10.3758/s13423-021-01902-3</a> </li>
+<li>Kowialiewski, B., Lemaire, B., & Portrat, S. (2021). How does semantic knowledge impact working memory maintenance? Computational and behavioral investigations. <i>Journal of Memory and Language</i>, 117(104208). <a href = "https://doi.org/10.1016/j.jml.2020.104208">https://doi.org/10.1016/j.jml.2020.104208</a> </li>
+<li>Kowialiewski, B., Lemaire, B., & Portrat, S. (2020). Semantic chunks save working memory resources: Computational and behavioral evidence. <i>Annual meeting of the Cognitive Science society</i>, 1466‑1472.</li>
+<li>Kowialiewski, B., Van Calster, L., Attout, L., Phillips, C., & Majerus, S. (2020). Neural Patterns in Linguistic Cortices Discriminate the Content of Verbal Working Memory. <i>Cerebral Cortex</i>, 30(5), 2997‑3014. <a href = "https://doi.org/10.1093/cercor/bhz290">https://doi.org/10.1093/cercor/bhz290</a> </li>
+<li>Kowialiewski, B., & Majerus, S. (2020). The varying nature of semantic effects in working memory. <i>Cognition</i>, 202, 104278. <a href = "https://doi.org/10.1016/j.cognition.2020.104278">https://doi.org/10.1016/j.cognition.2020.104278</a> </li>
+<li>Kowialiewski, B., & Majerus, S. (2019). Verbal working memory and linguistic long-term memory : Exploring the lexical cohort effect. <i>Memory & Cognition</i>, 47(5), 997‑1011. <a href = "https://doi.org/10.3758/s13421-019-00898-5">https://doi.org/10.3758/s13421-019-00898-5</a> </li>
+<li>Kowialiewski, B., & Majerus, S. (2018a). The non-strategic nature of linguistic long-term memory effects in verbal short-term memory. <i>Journal of Memory and Language</i>, 101, 64‑83. <a href = "https://doi.org/10.1016/j.jml.2018.03.005">https://doi.org/10.1016/j.jml.2018.03.005</a> </li>
+<li>Kowialiewski, B., & Majerus, S. (2018b). Testing the redintegration hypothesis by a single probe recognition paradigm. <i>Memory</i>, 26(9), 1256‑1264. <a href = "https://doi.org/10.1080/09658211.2018.1448420">https://doi.org/10.1080/09658211.2018.1448420 </a>
+		2016</li>
+<li>Gorin, S., Kowialiewski, B., & Majerus, S. (2016). Domain-Generality of Timing-Based Serial Order Processes in Short-Term Memory : New Insights from Musical and Verbal Domains. <i>PLOS ONE</i>, 11(12), e0168699. <a href = "https://doi.org/10.1371/journal.pone.0168699">https://doi.org/10.1371/journal.pone.0168699</a> </li>
+</ul>
+</p>
