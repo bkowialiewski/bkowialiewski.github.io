@@ -2,6 +2,6 @@
 title: "Purpose"
 ---
 
-This website is dedicated to presenting my programming skills.
+I worked for eight years as a Cognitive Neurosciences researcher. After getting my PhD, I wanted to understand more deeply human memory. This thirst for knowledge led me to a postdoctoral position at the University of Zurich, where I was able to develop my computational modeling skills. My work focuses on human memory, which I study through a behavioral and modeling approach, combined with fMRI. If this topic interests you, you can check my <a href = "publications.qmd">publication list</a>.
 
-I am currently a postdoctoral researcher at the University of Zurich. My work focuses on human memory, which I study through a behavioral and modeling approach, combined with fMRI. If this topic interests you, you can check my <a href = "publications.qmd">publication list</a>.
+I now wish to pursue a career in the field of data science.
