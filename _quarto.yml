@@ -14,12 +14,14 @@ website:
       - music.qmd
       - href: "documents/Curriculum.Vitae.pdf"
         text: Academic CV
+      - href: https://github.com/bkowialiewski
+        text: GitHub page
 
   page-footer:
     border: false
     background: light
     left:
-      - text: "<a href = 'mailto:benjamin.kowialiewski@uzh.ch'>benjamin.kowialiewski@uzh.ch</a>"
+      - text: "<a href = 'mailto:benjamin.kowialiewski@uzh.ch'>benjamin.kowialiewski@uzh.ch</a> <br>"
 
 format:
   html:
