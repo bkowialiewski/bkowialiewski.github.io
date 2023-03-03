@@ -12,7 +12,8 @@ website:
         text: Home
       - publications.qmd
       - music.qmd
-      - CV.qmd
+      - href: "documents/Curriculum.Vitae.pdf"
+        text: Academic CV
 
   page-footer:
     border: false

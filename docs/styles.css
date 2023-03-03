@@ -18,6 +18,7 @@ body {
 	width: 25vh;
 	height : 25vh;
 	border: 1px solid black;
+	position: center;
 }
 
 .imgMusic:hover {
